@@ -5,3 +5,4 @@ Tutorial at https://puppet.com/docs/pipelines-for-containers/free/kubernetes-con
 
 Foo
 Bar
+Baz
